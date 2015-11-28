@@ -56,5 +56,7 @@ docs/_build/
 # PyBuilder
 target/
 
+# Nude-detection
 .DS_Store
 *.jpg
+db_labels.py
